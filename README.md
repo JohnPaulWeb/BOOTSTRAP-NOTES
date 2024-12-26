@@ -2,11 +2,11 @@
 
 BOOTSTRAP FRAMEWORK
 
-WHAT IS FRAMEWORK
+WHAT IS FRAMEWORK?
 
 Framework is simply a bunch of code which can be called by the programmer without having it to be written explicitly.
 
-WHAT IS FRAMEWORK
+WHAT IS BOOTSTRAP?
 
 Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
 
